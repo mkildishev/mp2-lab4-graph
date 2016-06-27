@@ -165,9 +165,9 @@
 
 * [`gtest`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/gtest) - библиотека GoogleTest.
 * [`include`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/include) - каталог для размещения заголовочных файлов и реализаций структур данных.
-* [`sample_Dijkstra`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample-Dijkstra) - каталог для размещения исходного кода приложения алгоритма Дейкстры.
-* [`sample_Kruskal`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample-Kruskal) - каталог для размещения исходного кода приложения алгоритма Краскала.
-* [`sample_sort`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample-sort) - каталог для размещения исходного кода приложения пирамидальной сортировки.
+* [`sample_Dijkstra`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample_Dijkstra) - каталог для размещения исходного кода приложения алгоритма Дейкстры.
+* [`sample_Kruskal`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample_Kruskal) - каталог для размещения исходного кода приложения алгоритма Краскала.
+* [`sample_sort`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sample_Dheap) - каталог для размещения исходного кода приложения пирамидальной сортировки.
 * [`test`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/test) - каталог для размещения тестов.
 * [`sln`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/sln/vc14) - каталог с файлими решений.
 * [`img`](https://github.com/mkildishev/mp2-lab4-graph/tree/master/img) - каталог с изображениями для отчета;
